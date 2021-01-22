@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,10 +18,15 @@
         <i class="fas fa-angle-up"></i>
     </div>
     <nav class="navbar">
-        <div class="max-width">            
+        <div class="max-width">   
+            <div>
+                <ul class="menu">
+                    <li><a href='https://github.com/MichaelBruwer' ><i class="fab fa-github fa-lg"></i></a></li>
+                    <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/'><i class="fab fa-linkedin fa-lg"></i></a></li>
+                
+                </ul>
+            </div>         
             <ul class="menu">
-                <li><a href='https://github.com/MichaelBruwer' ><i class="fab fa-github "></i></a></li>
-                <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/'><i class="fab fa-linkedin"></i></a></li>
                 <li><a href="#home" class="menu-btn">Home</a></li>
                 <li><a href="#about" class="menu-btn">About</a></li>                
                 <li><a href="#skills" class="menu-btn">Skills</a></li>   
