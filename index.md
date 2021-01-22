@@ -114,7 +114,14 @@
                             <span>Python</span>
                             <span>50%</span>
                         </div>
-                        <div class="line php"></div>
+                        <div class="line python"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>Mysql</span>
+                            <span>20%</span>
+                        </div>
+                        <div class="line mysql"></div>
                     </div>
                     </div>
                 </div>
