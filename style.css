@@ -607,3 +607,7 @@ section .title::after {
 		line-height: 38px;
 	}
 }
+
+.spacefix {
+	word-spacing: normal;
+}
