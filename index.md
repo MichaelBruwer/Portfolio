@@ -62,7 +62,7 @@
                     <div class="text">I'm Michael and I'm a <span class="typing-2"></span></div>
                     <p class='spacefix'>
                         I am an aspiring Developer with a passion for gameing.
-                        I am a trustworthy,respectful,organized,adaptable and truthful person
+                        I am a trustworthy, respectful, organized, adaptable and truthful person
                         who is looking to pursue a long-term career in IT and meet some
                         new and interesting people along the way. I have been around computers
                         most of my life mainly dealing with hardware but also occasionally
