@@ -68,7 +68,7 @@
                         most of my life mainly dealing with hardware but also occasionally
                         loading software for people aswell as haveing some family that are Developers.
                         This close contact has fuelled the passion for coding.</p>
-                    <a href="#">Download CV</a>
+                    <!-- <a href="#">Download CV</a> -->
                 </div>
             </div>
         </div>
