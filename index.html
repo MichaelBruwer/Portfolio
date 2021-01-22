@@ -21,9 +21,12 @@
     <nav class="navbar">
         <div class="max-width">            
             <ul class="menu">
+                <li><a href='https://github.com/MichaelBruwer' ><i class="fab fa-github "></i></a></li>
+                <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/'><i class="fab fa-linkedin"></i></a></li>
                 <li><a href="#home" class="menu-btn">Home</a></li>
                 <li><a href="#about" class="menu-btn">About</a></li>                
-                <li><a href="#skills" class="menu-btn">Skills</a></li>                
+                <li><a href="#skills" class="menu-btn">Skills</a></li>   
+                <li><a href="#work" class="menu-btn">Work</a></li>              
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
             </ul>
             <div class="menu-btn">
@@ -38,7 +41,8 @@
             <div class="home-content">
                 <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Michael Bruwer</div>
-                <div class="text-3">And I'm a <span class="typing"></span></div>                
+                <div class="text-3">And I'm a <span class="typing"></span></div>
+                <div>  </div>                
             </div>
         </div>
     </section>
@@ -116,41 +120,51 @@
             <h2 class="title">My work</h2>
             <div class="carousel owl-carousel">
                 <div class="card">
-                    <div class="box">
-                        <img src="images/" alt="">
-                        <div class="text">Project Name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                   <a href='https://shrouded-everglades-14072.herokuapp.com/' > 
+                     <div class="box">                        
+                        <img src="images/search.JPG" alt="Triangle-Rateings">
+                        <div class="text">Triangle-Rateings</div>
+                        <p>A site that Searches Github and displays profiles.</p>                        
                     </div>
+                </a>               
                 </div>
                 <div class="card">
+                    <a href='https://weatherwidgetmicb.netlify.app/' >
                     <div class="box">
-                        <img src="images/" alt="">
-                        <div class="text">Project Name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <img src="images/weather.JPG" alt="WeatherWidget">
+                        <div class="text">Weather Widget</div>
+                        <p>A Weather Widget that displays the weather.</p>
                     </div>
+                </a>
                 </div>
                 <div class="card">
+                    <a href='https://suspicious-varahamihira-4efb67.netlify.app/' >
+                    <div class="box">
+                        <img src="images/Slider.JPG" alt="Slider">
+                        <div class="text">Slider</div>
+                        <p>A Slider that shows pictures of diffrent banks.</p>
+                    </div>
+                </a>
+                </div>
+                <!-- <div class="card">
+                    <a href='/#' >
                     <div class="box">
                         <img src="images/" alt="">
                         <div class="text">Project Name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
+                </a>
                 </div>
                 <div class="card">
+                    <a href='/#' >
                     <div class="box">
                         <img src="images/" alt="">
                         <div class="text">Project Name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
+                </a>
                 </div>
-                <div class="card">
-                    <div class="box">
-                        <img src="images/" alt="">
-                        <div class="text">Project Name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                    </div>
-                </div>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -190,17 +204,17 @@
                     <form action="mailto:michaelbruwer21@gmail.com" method="post" enctype="text/plain">
                         <div class="fields">
                             <div class="field name">
-                                <input type="text" placeholder="Name" required>
+                                <input type="text" name="name" placeholder="Name" required>
                             </div>
                             <div class="field email">
-                                <input type="email" placeholder="Email" required>
+                                <input type="email" name="email" placeholder="Email" required>
                             </div>
                         </div>
                         <div class="field">
-                            <input type="text" placeholder="Subject" required>
+                            <input type="text" name="subject" placeholder="Subject" required>
                         </div>
                         <div class="field textarea">
-                            <textarea cols="30" rows="10" placeholder="Message.." required></textarea>
+                            <textarea cols="30" rows="10" name="message" placeholder="Message.." required></textarea>
                         </div>
                         <div class="button">
                             <button type="submit">Send message</button>
