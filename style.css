@@ -211,9 +211,6 @@ section .title::after {
 }
 
 /* about section styling */
-.about .title::after {
-	content: 'who i am';
-}
 .about .about-content .left {
 	width: 45%;
 }
@@ -264,10 +261,6 @@ section .title::after {
 }
 
 /* skills section styling */
-
-.skills .title::after {
-	content: 'what i know';
-}
 .skills .skills-content .column {
 	width: calc(50% - 30px);
 }
@@ -399,9 +392,6 @@ section .title::after {
 }
 
 /* contact section styling */
-.contact .title::after {
-	content: 'get in touch';
-}
 .contact .contact-content .column {
 	width: calc(50% - 30px);
 }
