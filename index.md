@@ -171,15 +171,16 @@
                         <p>A basic Snake Game made with Python3</p>
                     </div>
                 </div>
-                <!-- <div class="card">
-                    <a href='/#' >
+                <div class="card">
                     <div class="box">
-                        <img src="images/" alt="">
-                        <div class="text">Project Name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <a href='https://github.com/MichaelBruwer/SimpleTodo' >
+                        <img src="images/django todo.JPG" alt="Todo">
+                        </a>
+                        <div class="text">ToDo</div>
+                        <p>A Todo list made with Django and python.</p>
                     </div>
-                </a>
-                </div> -->
+                </div>
+            </div>
         </div>
     </section>
 
