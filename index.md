@@ -162,6 +162,15 @@
                         <p> A Github account Finder Built useing ReactJs.</p>
                     </div>
                 </div>
+                <div class="card">
+                    <div class="box">
+                        <a href='https://github.com/MichaelBruwer/SnakeGame' >
+                        <img src="images/snake game.JPG" alt="">
+                        </a>
+                        <div class="text">Snake Game</div>
+                        <p>A basic Snake Game made with Python3</p>
+                    </div>
+                </div>
                 <!-- <div class="card">
                     <a href='/#' >
                     <div class="box">
@@ -170,17 +179,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </a>
-                </div>
-                <div class="card">
-                    <a href='/#' >
-                    <div class="box">
-                        <img src="images/" alt="">
-                        <div class="text">Project Name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                    </div>
-                </a>
-                </div>
-            </div> -->
+                </div> -->
         </div>
     </section>
 
