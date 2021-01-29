@@ -68,7 +68,7 @@
                         most of my life mainly dealing with hardware but also occasionally
                         loading software for people aswell as having some family that are Developers.
                         This close contact has fuelled the passion for coding.</p>
-                    <a href="/images/Michael Bruwer Resume.pdf">Download CV</a>
+                    <a href="Portfolio/images/Michael Bruwer Resume.pdf">Download CV</a>
                 </div>
             </div>
         </div>
