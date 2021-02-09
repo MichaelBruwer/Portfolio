@@ -11,7 +11,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
-
 </head>
 <body>
     <div class="scroll-up-btn">
@@ -22,7 +21,7 @@
             <div>
                 <ul class="menu">
                     <li><a href='https://github.com/MichaelBruwer' target="_blank"><i class="fab fa-github fa-lg"></i></a></li>
-                    <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/' target="_blank"><i class="fab fa-linkedin fa-lg"></i></a></li>
+                    <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/'target="_blank"><i class="fab fa-linkedin fa-lg"></i></a></li>
                 </ul>
             </div>         
             <ul class="menu">
@@ -49,7 +48,6 @@
             </div>
         </div>
     </section>
-
     <!-- about section start -->
     <section class="about" id="about">
         <div class="max-width">
@@ -62,7 +60,7 @@
                     <div class="text">I'm Michael and I'm a <span class="typing-2"></span></div>
                     <p class='spacefix'>
                         I am an aspiring Developer with a passion for gaming.
-                        i am a trustworthy, respectful, organized, adaptable and truthful person
+                        I am a trustworthy, respectful, organized, adaptable and truthful person
                         who is looking to pursue a long-term career in IT and meet some
                         new and interesting people along the way. I have been around computers
                         most of my life mainly dealing with hardware but also occasionally
@@ -73,7 +71,6 @@
             </div>
         </div>
     </section>
-
     <!-- skills section start -->
     <section class="skills" id="skills">
         <div class="max-width">
@@ -85,77 +82,43 @@
                         Who mainly works with React-js and Python,
                         However i have also done some Bot Development using
                         Automation Anywhere.</p>
-
                 </div>
                 <div class="column right">
                     <div class="bars">
                         <div class="info">
-                            <span><img src="images/skills/html.png" alt="html" style="height: 70px;width: 90px;"></span>
-                            <span><img src="images/skills/css.png" alt="CSS" style="height: 70px;width: 70px;"></span>
-                            <span><img src="images/skills/MySQL-Logo2.png" alt="mysql" style="height: 80px;width: 140px;"></span>
-
-                            <!-- <span>90%</span> -->
+                            <span><img src="images/skills/html.png" alt="html" style="height: 90px;width: 90px;"></span>
+                            <span><img src="images/skills/css.png" alt="CSS" style="height: 90px;width: 90px;"></span>
+                            <span><img src="images/skills/MySQL-Logo2.png" alt="mysql" style="height: 80px;width: 80px;"></span>
+                            <span><img src="images/skills/js.png" alt="js" style="height: 90px;width: 90px;"></span>
                         </div>
-                        <!-- <div class="line html"></div> -->
                     </div>
-                    <!-- <div class="bars">
-                        <div class="info">
-                            <span><img src="images/skills/css.png" alt="CSS" style="height: 40px;width: 50px;"></span>
-                            <span>60%</span>
-                        </div> -->
-                        <!-- <div class="line css"></div> -->
-                    <!-- </div> -->
                     <div class="bars">
                         <div class="info">
-                            <span><img src="images/skills/react.png" alt="ReactJs" style="height: 70px;width: 90px;"></span>
+                            <span><img src="images/skills/react.png" alt="ReactJs" style="height: 90px;width: 90px;"></span>
+                            <span><img src="images/skills/py2.png" alt="python" style="height: 90px;width: 90px;"></span>
                             <span><a href='https://certificates.automationanywhere.com/9a8bb420-0cf9-4f00-a7c0-d22d08741786' target="_blank"> <img src="images/AA/7.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
-                            <span><img src="images/skills/py2.png" alt="python" style="height: 70px;width: 70px;"></span>
-
-                            <!-- <span>80%</span> -->
-                        </div>
-                        <!-- <div class="line js"></div> -->
+                            <span><a href='https://certificates.automationanywhere.com/8ced1d1f-0ebd-45df-8425-c3d16c865c1e#gs.se8vrt' target="_blank"> <img src="images//AA/1.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
+                         </div>
                     </div>
                     <div class="bars">
                         <div class="info">
-                            <span><a href='https://certificates.automationanywhere.com/8ced1d1f-0ebd-45df-8425-c3d16c865c1e#gs.se8vrt' target="_blank"> <img src="images//AA/1.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
                             <span><a href='https://certificates.automationanywhere.com/d0badc81-79c8-410b-b38b-d5e136b1dd77' target="_blank"> <img src="images/AA/2.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
                             <span><a href='https://certificates.automationanywhere.com/8dc0c5a3-5f18-472e-afba-bfa0222ac315#gs.se8xn9' target="_blank"> <img src="images//AA/3.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
+                            <span><a href='https://certificates.automationanywhere.com/62adae19-99d1-44df-ab56-dfbbfb6835be' target="_blank"> <img src="images//AA/4.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
+                            <span><a href='https://certificates.automationanywhere.com/2cf84d23-fda9-4ee6-8162-d28cbc66c22d#gs.se8zru' target="_blank"> <img src="images/AA/5.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
 
-                            <!-- <span>80%</span> -->
                         </div>
-                        <!-- <div class="line js"></div> -->
                     </div>
                     <div class="bars">
                         <div class="info">
-                            <span><a href='https://certificates.automationanywhere.com/62adae19-99d1-44df-ab56-dfbbfb6835be' target="_blank"> <img src="images//AA/4.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
-                            <span><a href='https://certificates.automationanywhere.com/2cf84d23-fda9-4ee6-8162-d28cbc66c22d#gs.se8zru' target="_blank"> <img src="images/AA/5.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
-                            <span><a href='https://certificates.automationanywhere.com/bc900f0e-aeff-4c45-ace3-5595b7ce8965' target="_blank"> <img src="images//AA/6.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
-
-                            <!-- <span>80%</span> -->
+                           <span><a href='https://certificates.automationanywhere.com/bc900f0e-aeff-4c45-ace3-5595b7ce8965' target="_blank"> <img src="images//AA/6.png" alt="AA" style="height: 90px;width: 90px;"></a></span>
                         </div>
-                        <!-- <div class="line js"></div> -->
                     </div>
-
-                    <!-- <div class="bars"> -->
-                        <!-- <div class="info">                                                     -->
-                            <!-- <span><img src="images/skills/py2.png" alt="python" style="height: 40px;width: 100px;"></span> -->
-                            <!-- <span>50%</span> -->
-                        <!-- </div> -->
-                        <!-- <div class="line python"></div> -->
-                    <!-- </div>    -->
-                    <!-- <div class="bars"> -->
-                        <!-- <div class="info">                                                    -->
-                            <!-- <span><img src="images/skills/MySQL-Logo2.png" alt="mysql" style="height: 40px;width: 70px;"></span> -->
-                            <!-- <span>20%</span> -->
-                        <!-- </div> -->
-                        <!-- <div class="line mysql"></div> -->
-                    <!-- </div>                   -->
-                    </div>
+                   </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- work section start -->
     <section class="work" id="work">
         <div class="max-width">
@@ -182,7 +145,6 @@
                           <p>  <a href='https://github.com/MichaelBruwer/Weather-widget ' target="_blank"><i class="fab fa-github fa-lg"></i></a>
                         </p>
                     </div>
-
                 </div>
                 <div class="card">
                     <div class="box">
@@ -220,14 +182,12 @@
             </div>
         </div>
     </section>
-
     <!-- contact section start -->
     <section class="contact" id="contact">
         <div class="max-width">
             <h2 class="title">Contact me</h2>
             <div class="contact-content">
                 <div class="column left">
-
                    <div class="icons">
                         <div class="row">
                             <i class="fas fa-user"></i>
@@ -277,7 +237,6 @@
             </div>
         </div>
     </section>
-
     <script src="script.js"></script>
 
 </body>
