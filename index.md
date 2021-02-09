@@ -21,8 +21,8 @@
         <div class="max-width">   
             <div>
                 <ul class="menu">
-                    <li><a href='https://github.com/MichaelBruwer' ><i class="fab fa-github fa-lg"></i></a></li>
-                    <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/'><i class="fab fa-linkedin fa-lg"></i></a></li>
+                    <li><a href='https://github.com/MichaelBruwer' target="_blank"><i class="fab fa-github fa-lg"></i></a></li>
+                    <li><a href='https://www.linkedin.com/in/michael-bruwer-2806a41a9/' target="_blank"><i class="fab fa-linkedin fa-lg"></i></a></li>
                 </ul>
             </div>         
             <ul class="menu">
