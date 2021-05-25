@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Michael Bruwer</title>
     <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
@@ -59,9 +59,9 @@
                 <div class="column right">
                     <div class="text">I'm Michael and I'm a <span class="typing-2"></span></div>
                     <p class='spacefix'>
-                        I am an aspiring Developer with a passion for gaming.
+                        I am an aspiring developer with a passion for gaming.
                         I am a trustworthy, respectful, organized, adaptable and truthful person
-                        who is looking to pursue a long-term career in IT and meet some
+                        who is looking to pursue a long-term career in web development and meet some
                         new and interesting people along the way. I have been around computers
                         most of my life mainly dealing with hardware but also occasionally
                         loading software for people aswell as having some family that are Developers.
@@ -78,48 +78,54 @@
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">My skills & experiences.</div>
-                    <p> I'm an Intern Developer at Lc-Studio,
-                        Who mainly works with React-js and Python
+                    <p> I'm an intern developer at Lc-Studio,
+                        Who works with a variety of diffrent frameworks
+                        and librarys some of witch include vue.js, react.js and node.js
                         to complete a variety of projects that mostly
                         consist of web based applications.
                        </p>
                 </div>
-                <div class="column left">
+                <!-- <div class="column left">
                        <div class="text">My rpa learning journey</div>
                     <p> My learning journey with RPA (Robotic Process Automation)
                          has come with a fair
                         amount of struggles but i have learend alot
                          from it and hope to learn more as time moves forward.
-
                     </p>
-                </div>
+                </div> -->
                 <div class="column right">
                     <div class="bars">
                         <div class="info">
                             <span><img src="images/skills/html.png" alt="html" style="height: auto;width: 80px;"></span>
                             <span><img src="images/skills/css2.png" alt="CSS" style="height: auto;width: 50px;"></span>
-                            <span><img src="images/skills/MySQL-Logo2.png" alt="mysql" style="height: auto;width: 80px;"></span>
+                            <span><img src="images/skills/js.png" alt="js" style="height: auto;width: 100px;"></span>
+                            <span><img src="images/skills/psql.png" alt="mysql" style="height: auto;width: 80px;"></span>
+
                             </div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span><img src="images/skills/react.png" alt="ReactJs" style="height: auto;width: 100px;"></span>
+                            <span><img src="images/skills/vue.jpg" alt="mysql" style="height: auto;width: 80px;"></span>
+                            <span><img src="images/skills/node.png" alt="mysql" style="height: auto;width: 80px;"></span>
                             <span><img src="images/skills/py2.png" alt="python" style="height: auto;width: 70px;"></span>
-                            <span><img src="images/skills/js.png" alt="js" style="height: auto;width: 100px;"></span>
+
+
+                            <span><a href='https://certificates.automationanywhere.com/bc900f0e-aeff-4c45-ace3-5595b7ce8965' target="_blank"> <img src="images//AA/6.png" alt="AA" style="height: auto;width: 90px;"></a></span>
+
                         </div>
                     </div>
                              <hr/>
                    </div>
                    <!-- second col start -->
-                   <div class="column right">
+                   <!-- <div class="column right">
 
                     <div class="bars">
                         <div class="info">
                             <span><a href='https://certificates.automationanywhere.com/62adae19-99d1-44df-ab56-dfbbfb6835be' target="_blank"> <img src="images//AA/4.png" alt="AA" style="height: auto;width: 90px;"></a></span>
                             <span><a href='https://certificates.automationanywhere.com/bc900f0e-aeff-4c45-ace3-5595b7ce8965' target="_blank"> <img src="images//AA/6.png" alt="AA" style="height: auto;width: 90px;"></a></span>
                              <span><a href='https://certificates.automationanywhere.com/d0badc81-79c8-410b-b38b-d5e136b1dd77' target="_blank"> <img src="images/AA/2.png" alt="AA" style="height: auto;width: 90px;"></a></span>
-
-                             </div>
+                            </div>
                     </div>
                     <div class="bars">
                         <div class="info">
@@ -129,8 +135,7 @@
                             <span><a href='https://certificates.automationanywhere.com/8dc0c5a3-5f18-472e-afba-bfa0222ac315#gs.se8xn9' target="_blank"> <img src="images//AA/3.png" alt="AA" style="height: auto;width: 90px;"></a></span>
                            </div>
                     </div>
-
-                   </div>
+                   </div> -->
                 </div>
             </div>
         </div>
@@ -146,7 +151,7 @@
                           <img src="images/tes-clone.JPG" alt="Tesla-clone">
                         </a>
                         <div class="text">Tesla-clone</div>
-                        <p>A Tesla Home-page clone done with ReactJs.</p>
+                        <p>A Tesla Home-page layout designed with ReactJs.</p>
                           <p>  <a href='https://github.com/MichaelBruwer/tesla-clone' target="_blank" ><i class="fab fa-github fa-lg"></i></a>
                         </p>
                     </div>
