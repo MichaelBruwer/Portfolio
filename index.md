@@ -99,7 +99,7 @@
                             <span><img src="images/skills/html.png" alt="html" style="height: auto;width: 80px;"></span>
                             <span><img src="images/skills/css2.png" alt="CSS" style="height: auto;width: 50px;"></span>
                             <span><img src="images/skills/js.png" alt="js" style="height: auto;width: 100px;"></span>
-                            <span><img src="images/skills/psql.png" alt="mysql" style="height: auto;width: 80px;"></span>
+                            <span><img src="images/skills/Psql.png" alt="mysql" style="height: auto;width: 80px;"></span>
 
                             </div>
                     </div>
